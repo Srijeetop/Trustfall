@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TrustFall
 
 **Software supply-chain security analyzer for Python environments.**
