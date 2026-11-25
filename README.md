@@ -4,7 +4,7 @@
 
 TrustFall inspects the packages installed in a Python environment, rebuilds their dependency graph, checks them against [OSV](https://osv.dev) (vulnerabilities) and PyPI (updates), and writes a JSON report plus an interactive HTML report. It can scan its own environment or an external project's virtual environment.
 
-![TrustFall report overview](images/report-overview.png)
+![TrustFall report overview](images/Report-overview.png)
 
 ## Features
 
